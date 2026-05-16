@@ -1,14 +1,21 @@
-# GitHub Final Project
+# Simple Interest Calculator
 
-This repository contains files and tasks completed as part of the Git and GitHub final project assignment.
+A simple and beginner-friendly Simple Interest Calculator built using HTML, CSS, and JavaScript.
 
-## Files Included
+## Features
+- Calculate Simple Interest instantly
+- Easy-to-use interface
+- Responsive design
 
-- README.md
-- CODE_OF_CONDUCT.md
-- CONTRIBUTING.md
-- simple-interest.sh
+## Formula
+SI = (P × R × T) / 100
 
-## Purpose
+Where:
+- P = Principal Amount
+- R = Annual Rate of Interest
+- T = Time Period in Years
 
-The purpose of this project is to practice GitHub repository management, branching, pull requests, and collaboration workflows.
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
